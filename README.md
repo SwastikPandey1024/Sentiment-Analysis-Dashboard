@@ -29,3 +29,4 @@ This project presents an interactive **Power BI dashboard** built on sentiment a
 - NLP (Natural Language Processing)  
 
 ---
+<img width="2236" height="1240" alt="image" src="https://github.com/user-attachments/assets/1d55d70b-a1ec-46b5-8b6d-d416417b02fd" />
